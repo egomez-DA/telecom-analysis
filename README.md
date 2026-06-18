@@ -17,8 +17,7 @@ usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/drive/18TKbMkINStdR5i1yh5VqDUnVdcxBJ5Yy?usp=sharing)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18TKbMkINStdR5i1yh5VqDUnVdcxBJ5Yy?usp=sharing)
 O:
 
 1. Abre el archivo `.ipynb` en GitHub
